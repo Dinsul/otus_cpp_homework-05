@@ -3,6 +3,7 @@
 #include <stdexcept>
 #include <map>
 
+
 template <class T, T defValue>
 /*!
  * \brief The LazyArray class
